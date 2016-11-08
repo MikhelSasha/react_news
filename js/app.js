@@ -1,4 +1,4 @@
 ReactDOM.render(
-	React.createElement('h1', null, 'Привіт, світ!');
+	<h1>Hello, World!</h1>,
 	document.getElementById('root');
 );
