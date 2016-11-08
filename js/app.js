@@ -1,2 +1,4 @@
-console.log(React);
-console.log(ReactDOM);
+ReactDOM.render(
+	React.createElement('h1', null, 'Привіт, світ!');
+	document.getElementById('root');
+);
