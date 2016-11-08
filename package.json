@@ -1,14 +1,11 @@
 {
-  "name": "redux-ru-tutorial",
+  "name": "redux-tutorial",
   "version": "1.0.0",
   "description": "Redux RU tutorial",
   "main": "index.html",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Maxim Patsianskiy",
-  "license": "MIT",
-  "devDependencies": {
-    "express": "^4.13.4"
-  }
+  "author": "Mikhel Oleksandr",
+  "license": "MIT"
 }
